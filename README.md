@@ -1,3 +1,9 @@
+# Spectral function of oxygen 16 from coupled-cluster theory
+
+Spectral function is tabularized separately for protons and neutrons. Files ending in "_low" and "_high" correspond to the uncertainty of the spectral reconstruction.
+
+
+
 # How to read SF files
 
 1st line:
