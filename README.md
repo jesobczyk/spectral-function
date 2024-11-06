@@ -32,5 +32,5 @@ for i in range (number of grid points in momentum):
   **E_j , S(p_i,E_j)**
 
 
-
+# Funding
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No. 101026014.
